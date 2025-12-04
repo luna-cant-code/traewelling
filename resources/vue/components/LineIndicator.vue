@@ -165,6 +165,7 @@ const cssVars = computed((): string => {
   background-color: var(--accent);
   color: var(--contrast);
   font-size: .75rem;
+  text-align: center;
   min-width: 1.5rem;
 }
 
